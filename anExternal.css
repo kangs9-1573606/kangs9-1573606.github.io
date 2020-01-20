@@ -4,11 +4,10 @@ body {
   h3 {
     color: blue;";
   }
-  p {
-    border: 1px solid white;
-    border-style: ridge;
+  #brdr1 {
+    border-radius: 25px;
     padding: 20px;
   }
-  #img02 {
+  #img4 {
     float: right;
   }
